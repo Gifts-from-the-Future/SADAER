@@ -1,6 +1,12 @@
 # SADAER
-This repository builds upon open-source code from [[Anonymous GitHub Repository 1](https://github.com/username/repo)](https://github.com/tsy935/eeg-gnn-ssl) and other relevant works.
+This repository contains the source code for our paper:
 
-We have modified and extended these implementations to fit our task.
+**Scalable Attention Diffusion Method for Multi-task EEG Recognition**
 
-All reused code complies with the original license (e.g., MIT).
+> Note: This is an anonymized version of the code for peer review. Author and repository information will be added after the review process.
+
+## Acknowledgements
+
+This codebase incorporates components adapted from several MIT-licensed repositories, including prior implementations of DCRNN and eeg_gnn_ssl. Full references and links will be provided after the peer-review process.
+
+See the [LICENSE](./LICENSE) file for detailed license information.
