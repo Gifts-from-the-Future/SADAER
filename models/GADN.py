@@ -1,9 +1,6 @@
 """
-Some code is adapted from prior implementations of related work,
+Some code is adapted from prior implementations of DCRNN and eeg_gnn_ssl,
 which are licensed under the MIT License.
-
-Original authorship and specific references will be added
-after the peer-review process.
 """
 from __future__ import absolute_import
 from __future__ import division
